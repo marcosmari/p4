@@ -1,0 +1,7 @@
+nome='marcos'
+
+if len(nome) == 5:
+print('este nome tem 5 letras')
+
+else:
+print('este nome não tem 5 letras')
